@@ -13,6 +13,7 @@ services:
         value: false
       - key: APP_URL
         value: https://laravel-crm.onrender.com
+
       - key: DB_CONNECTION
         value: pgsql
       - key: DB_HOST
