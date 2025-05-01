@@ -331,7 +331,7 @@
 				
 				<div class="copyright">
 					<p class="fs-14 font-w200"><strong class="font-w400">CRM</strong> </p>
-					<p>Desenvolvido por <i class="fa fa-heart" style="width: 20px"></i> Olimpus Solucoes</p>
+					<p>Desenvolvido por <i class="fa fa-heart" style="width: 20px"></i> Keon Group Ltda</p>
 				</div>
 			</div>
         </div>
@@ -342,7 +342,7 @@
 
         <div class="footer">
             <div class="copyright">
-                <p>Copyright © Designed &amp; Developed by <a href="https://wa.me/5511933672353" target="_blank">Olimpus Solucoes</a> 2024</p>
+                <p>Copyright © Designed &amp; Developed by <a href="https://wa.me/5519993480072" target="_blank">Keon Group Ltda</a> 2024</p>
             </div>
         </div>
 
